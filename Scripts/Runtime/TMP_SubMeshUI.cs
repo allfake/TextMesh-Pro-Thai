@@ -10,7 +10,6 @@ using Object = UnityEngine.Object;
 namespace TMPro
 {
     [ExecuteAlways]
-    [RequireComponent(typeof(CanvasRenderer))]
     public class TMP_SubMeshUI : MaskableGraphic
     {
         /// <summary>
